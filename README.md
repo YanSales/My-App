@@ -3,18 +3,18 @@
    <a href="https://github.com/othneildrew/Best-README-Template">
       <img src="https://logodownload.org/wp-content/uploads/2014/12/estacio-logo-1-2048x1641.png" alt="estacio logo" width="80"                  height="80">
    </a>
-    <h1 align="center"> Universidade Estácio de Sá </h1>
+    <h1 align="center"> Universidade Estácio de Taguatinga </h1>
      <hr>
 </div> 
 
 * DESENVOLVIMENTO FULL STACK- 
 * Disciplina: RPG0023  - Vamos criar um App.
-* Semestre Letivo: 2024.1
-* Repositorio Git: https://github.com/Gregdev22/Missao-1-Mundo-4
+* Semestre Letivo: 2024.2
+* Repositorio Git: https://github.com/YanSales/My-App
 
 <hr>
 
-* [EMERSON GREGORIO ALVES](https://github.com/Gregdev22) - MATRICULA: 2022.0908.4986
+* [YAN SILVA SALES](https://github.com/YanSales/My-App) - MATRICULA: 2023.0257.3592
 <hr>
  <h1 align="center"> Missão Prática | Nível 1 | Mundo 4 </h1>
  <h2 align="left" > Adicionando interatividade com o React Native. </h2> 
